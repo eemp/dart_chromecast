@@ -11,7 +11,7 @@ dependencies:
   protoc_plugin: ^20.0.0
   http: ^0.13.1
   cli_util: ^0.3.0
-  args: ^2.0.0
+  args: any
   xml: any
   logging: ^1.0.1
   multicast_dns: ^0.3.0
